@@ -7,6 +7,9 @@ Before use the package please install by using the following command in the term
   ```bash
   pip install wav2samp
   ```
+You can find the package in this link: 
+https://pypi.org/project/wav2samp/
+
 ## Usage
 There are four functions in this python package.
 
